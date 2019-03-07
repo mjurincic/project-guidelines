@@ -1,5 +1,4 @@
 # Project Guidelines
-<hr>
 
 - [Git](#git)
     - [Some Git rules](#some-git-rules)
