@@ -1,11 +1,3 @@
-
-[中文版](./README-zh.md)
- | [日本語版](./README-ja.md)
- | [한국어](./README-ko.md)
-
-[<img src="./images/elsewhen-logo.png" width="180" height="180">](http://elsewhen.co/)
-
-
 # Project Guidelines &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 > While developing a new project is like rolling on a green field for you, maintaining it is a potential dark twisted nightmare for someone else.
 Here's a list of guidelines we've found, written and gathered that (we think) works really well with most JavaScript projects here at [elsewhen](http://elsewhen.co).
