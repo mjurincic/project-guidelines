@@ -1,5 +1,15 @@
 # Project Guidelines
 
+What is a Project Guideline?
+A set of rules that contributors should follow for a project.
+
+It may include:
+Coding / Style Conventions
+Git Workflows
+Project Management Workflows
+Infrastructure / Deployment Workflows
+Other Best Practices
+
 - [Git](#git)
     - [Some Git rules](#some-git-rules)
     - [Git workflow](#git-workflow)
