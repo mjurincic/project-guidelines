@@ -80,7 +80,10 @@ There are a set of rules to keep in mind:
 
 <a name="git-workflow"></a>
 ### 1.2 Git workflow
+
 rework based on https://www.quora.com/What-is-the-best-place-to-learn-about-Git-workflow
+
+![GitFlow](https://raw.githubusercontent.com/mjurincic/project-guidelines/master/main-qimg-8f9492a60562a3f919e007d731e6b0aa.png)
 
 Because of most of the reasons above, we use [Feature-branch-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow) with [Interactive Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing) and some elements of [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows#gitflow-workflow) (naming and having a develop branch). The main steps are as follows:
 
